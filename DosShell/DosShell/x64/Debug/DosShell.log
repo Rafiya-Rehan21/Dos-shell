@@ -1,0 +1,8 @@
+﻿  CommonElement.cpp
+C:\Users\Rafia Rehan Tariq\DSA\DosShell\DosShell\CommonElement.cpp(172,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rafia Rehan Tariq\DSA\DosShell\DosShell\CommonElement.cpp(173,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  File.cpp
+C:\Users\Rafia Rehan Tariq\DSA\DosShell\DosShell\CommonElement.cpp(172,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rafia Rehan Tariq\DSA\DosShell\DosShell\CommonElement.cpp(173,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  DosShell.vcxproj -> C:\Users\Rafia Rehan Tariq\DSA\DosShell\x64\Debug\DosShell.exe
